@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "tag": "hot_buyer",
+      "keywords": ["ready to buy", "purchase today", "want to purchase"]
+    },
+    {
+      "tag": "just_browsing",
+      "keywords": ["just looking", "not ready", "only browsing"]
+    },
+    {
+      "tag": "sign_up!",
+      "keywords": ["sign me up", "create account", "register now"]
+    }
+  ]
+}
